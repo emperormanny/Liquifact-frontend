@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-1387-export-the-filtered-marketplace-to-csv-with"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-1387-export-the-filtered-marketplace-to-csv-with": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-1387-export-the-filtered-marketplace-to-csv-with"
+  ]
+}
